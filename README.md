@@ -17,4 +17,3 @@ Utilize an AI OCR model to scan the uploaded image via an API, and send the extr
 
 Incorporate a Large Language Model (LLM) to correct misspellings and fill in missing words in the extracted text.
 
-$$ To \ find \ the \ full \ project \ look \ at \ side \ branch $$
